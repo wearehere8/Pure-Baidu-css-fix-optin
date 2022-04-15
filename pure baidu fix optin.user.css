@@ -37,5 +37,9 @@
 
 /* 两列卡片，居中，已经隐藏侧栏 */
 #container{margin:0 auto;}#content_left {padding-left:0;margin-left:5px;}#rs{margin-left:0;}#page{margin-left:0}.nums{margin-left:1%;}#wrapper #content_left{width:82vw;display:inline-grid;grid-template-columns:50% 50%;}#wrapper #content_left .result,#wrapper #content_left .c-container{width:unset!important;max-width:100%;margin-bottom:30px;margin-left:8px !important;margin-right:15px;}.c-span18{width:300px;} #content_right{display:none!important}              .wrapper_new #page .page-inner {padding: 14px 14PX 14px 14px;}.wrapper_new .search_tool_conter, .wrapper_new .nums, .wrapper_new #rs, .wrapper_new .hint_common_restop {margin-left: 0;}.wrapper_new #content_left {padding-left: 16px;}
-    
+
+/* 底部位置修正 */
+ .rs-normal-width_2T91A  {
+    padding-left: 20px;
+}
 }
